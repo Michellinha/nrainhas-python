@@ -1,6 +1,6 @@
 # Universidade Federal de Minas Gerais 
 
-## Ambiente de Computação 2021.1
+## Ambiente de Computação
 
 #### Código desenvolvido por: Michelle Gomes Pereira
 
